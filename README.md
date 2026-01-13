@@ -11,3 +11,10 @@ his document provides a detailed overview of the competencies and knowledge acqu
 *   **Workbook Practical Skills Development**: Demonstrates the application of Tableau and Power BI for data cleaning, dashboard creation, trend analysis, and interpretation of real-world health data, reflecting growth in technical, analytical, and professional competencies.
 *   **Database and SQL Fundamentals**: Details an understanding of relational database concepts, key constraints, SQL JOIN types, and practical database design for retail, including security and maintenance best practices.
 *   **Cloud Computing and Legal Frameworks**: Explains cloud service models (IaaS, PaaS, SaaS), deployment types, and relevant legal regulations for data handling, illustrating the benefits and alternatives to cloud adoption.
+*   # Azure Proposal for Business Modernisation
+
+The document recommends Azure services for a pet shop to centralise data, ensure GDPR compliance, automate processes, and support scalable analytics and visualisation with Power BI.
+
+# Python Programming and Data Analysis
+
+Foundational Python skills are covered, including loops and conditionals, data manipulation with Pandas, aggregation, pivot tables, and visualisation using real datasets to develop analytical proficiency.
