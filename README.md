@@ -66,7 +66,7 @@ The activities enabled me to apply Tableau, Excel, and Power BI in practical sce
 - Visual storytelling
 These techniques helped me highlight performance patterns and guide strategic planning.
 Beyond technical development, I gained a stronger awareness of how data informs organisational priorities—whether identifying market trends, understanding customer behaviour, or supporting public‑sector decision‑making. This week strengthened my communication skills and improved my readiness to contribute effectively in a data‑driven corporate environment.
-![week2_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20194211wb2.png)
+![week2_image]()
 
 Simple Summary of the Dashboard
 Product 3 is the top performer in terms of sales — it brings in the highest average sales amount.
@@ -78,7 +78,7 @@ Big jumps happen at Product 1, Product 2, and especially Product 3, showing thes
 After Product 3, the increases are much smaller, meaning the other products contribute less to total quantity.
 Big Picture
 A small group of products — mainly Product 3, Product 1, and Product 2 — drive most of the sales and quantity. The rest contribute modestly.
-![week2_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20194547wb2.png)
+![week2_image]()
 
 This dashboard compares actual sales to the target for each month in FY2018.
 Top Summary Numbers
