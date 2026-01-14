@@ -183,7 +183,7 @@ The practical tasks involving the GDP dataset enhanced my confidence in extracti
 This week also helped refine my ability to work collaboratively, interpret structured exercises, and apply analytical thinking to unfamiliar datasets. The combination of coding practice, data exploration, and visualisation strengthened my appreciation for accuracy, clarity, and reproducibility in a professional data environment.
 Overall, I am now more confident in using Python to prepare, analyse, and present data, and better equipped to support operational and strategic decision‑making through robust, well‑structured analysis.
 
-![week6_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20195634%20wb%206.png)
+![week6_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%2015%20WB%206.png)
 
 Overview of the Dashboard. This Python-created dashboard gives a full picture of how 90 students performed overall, across classes, and by gender. It highlights key statistics, how marks are distributed, and where performance differences appear 
 1. Overall Performance (Top Summary)
