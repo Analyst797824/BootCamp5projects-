@@ -50,7 +50,7 @@ Collectively, this programme has significantly advanced my technical capability,
 Throughout this workbook, I strengthened my technical skills and analytical discipline across key data‑handling tools and methodologies. The exercises enabled me to practise structured techniques for data preparation, transformation, and interpretation using Excel, SQL, and visualisation methods.
 I also learned to emphasise accuracy, governance, and compliance in data‑driven environments. Additionally, I improved my ability to distil complex analytical results into clear, concise insights for senior stakeholders, ensuring that recommendations are evidence‑based and commercially relevant.
 This experience boosted my confidence in delivering high‑quality analysis, complying with regulatory standards, and communicating findings effectively in line with organisational expectations and professional best practices.
-![week1_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Shaun_Bak_Workbook_Week_2.1%20(1).docx)
+![week1_image]()
 # Week 2: Introduction to Visual Tools — Tableau & Power BI
 Over the course of this workbook, I strengthened my capability to work with modern data tools and analytical techniques while developing a structured, professional approach to interpreting and presenting insights.
 The activities enabled me to apply Tableau, Excel, and Power BI in practical scenarios, reinforcing my ability to transform raw datasets into clear, meaningful outputs that support decision‑making. I also deepened my understanding of analytical methods such as:
