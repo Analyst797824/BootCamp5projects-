@@ -107,6 +107,25 @@ The SQL practical tasks reinforced my ability to extract meaningful insights fro
 Overall, this week enhanced my technical proficiency, improved my confidence in SQL, and strengthened my ability to deliver actionable insights that support business performance and operational efficiency.
 ![week3_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20194805wb3.png)
 
+Simple Summary of the ERD. 
+This diagram shows how data is organised in a retail system — from buying stock to selling products to customers 
+1. Suppliers & Purchases
+The business buys products from Suppliers.
+Each purchase is recorded in Purchase Transactions, which store the supplier, cost, quantity, and date.
+2. Inventory
+All products are stored in the Inventory table.
+It includes product details like name, category, selling price, and stock levels.
+Inventory links back to suppliers so you know who provided each product.
+3. Sales
+When a customer buys something, a Sales Transaction is created.
+Each sale can have multiple items, which are stored in Sales Items (product, quantity, selling price).
+4. Customers
+Customers are tracked in the Customer table using a Loyalty Card Number.
+Their details include name, contact info, date of birth, join date, and loyalty points.
+ Big Picture
+The system connects:
+Suppliers → Purchases → Inventory → Sales → Customers This creates a full flow of information from stocking products to selling them and tracking customer activity.
+If you want, I can also help you write a more formal explanation for a report or turn this into a narrative for your portfolio.
 
 # Week 5: Fundamentals of Microsoft Azure
 Throughout this workbook, I strengthened my understanding of cloud computing principles and developed a strategic perspective on how modern cloud platforms—particularly Microsoft Azure—support data‑driven operations.
