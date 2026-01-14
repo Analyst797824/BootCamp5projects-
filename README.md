@@ -105,7 +105,7 @@ I worked through foundational topics including:
 I also developed a structured approach to designing and implementing a functional database for a retail environment. This included translating business requirements into a logical schema, defining table structures, enforcing referential integrity, and using SQL to create, populate, and maintain a reliable data system.
 The SQL practical tasks reinforced my ability to extract meaningful insights from large datasets using targeted queries. By working through real‑world scenarios—such as demographic analysis, population trends, and geographic filtering—I strengthened my ability to write efficient queries and align technical work with business objectives.
 Overall, this week enhanced my technical proficiency, improved my confidence in SQL, and strengthened my ability to deliver actionable insights that support business performance and operational efficiency.
-![week3_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20194805wb3.png)
+![week3_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%2011%20WB3.png)
 
 Simple Summary of the ERD. 
 This diagram shows how data is organised in a retail system — from buying stock to selling products to customers 
