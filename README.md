@@ -145,6 +145,31 @@ Overall, this week improved my technical confidence and strategic understanding 
 
 ![week5_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20195214wb5.png)
 
+Full Summary of the Dashboard: 
+This Power BI dashboard provides an overview of sales performance across product categories, quantities sold, and geographic regions. It brings together three key visuals to help understand what products are selling, how much is being sold, and where revenue is coming from 
+1. Revenue by Category (Bar Chart)
+This chart shows how much revenue each product category generates.
+Categories like Caps, Cleaners, Decals, and others are compared side by side.
+You can quickly see which categories bring in the most money and which ones contribute less.
+ 2. Quantity Sold by Category (Pie Chart)
+This visual shows the percentage share of total quantity sold for each product category.
+Categories such as Touring Bikes, Jerseys, Road Bikes, Mountain Bikes, etc., are displayed with both percentages and actual quantities.
+It highlights which product types are most popular in terms of units sold, not revenue.
+ 3. Revenue by City (Map Visual)
+This map shows where revenue is coming from geographically.
+Cities across North America, Europe, and Asia are plotted.
+Larger or darker markers indicate higher revenue, helping identify strong markets and regions with lower sales.
+ 4. Data Model (Right Panel)
+The dashboard uses two tables:
+orders (CustomerID, OrderDate, ProductID, Quantity, Revenue)
+products (Category, ProductID, ProductName)
+These tables are linked to allow category-level and product-level analysis.
+  Overall Insight
+The dashboard gives a well-rounded view of sales performance:
+You see which categories earn the most revenue,
+Which products sell the most units,
+And which cities generate the highest revenue.
+It’s a clean, multi‑angle snapshot of product performance and market distribution — ideal for identifying best‑selling categories, strong regions, and opportunities for improvement.
 
 # Week 6: Introduction to Python for Data Analysis
 Throughout this workbook, I strengthened my technical capabilities in Python programming, data manipulation, and analytical problem‑solving, while developing a structured, professional approach to working with real‑world datasets.
@@ -158,3 +183,4 @@ The practical tasks involving the GDP dataset enhanced my confidence in extracti
 This week also helped refine my ability to work collaboratively, interpret structured exercises, and apply analytical thinking to unfamiliar datasets. The combination of coding practice, data exploration, and visualisation strengthened my appreciation for accuracy, clarity, and reproducibility in a professional data environment.
 Overall, I am now more confident in using Python to prepare, analyse, and present data, and better equipped to support operational and strategic decision‑making through robust, well‑structured analysis.
 
+![week6_image]()
