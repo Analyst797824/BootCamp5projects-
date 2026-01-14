@@ -80,6 +80,22 @@ Big Picture
 A small group of products — mainly Product 3, Product 1, and Product 2 — drive most of the sales and quantity. The rest contribute modestly.
 ![week2_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20194547wb2.png)
 
+This dashboard compares actual sales to the target for each month in FY2018.
+Top Summary Numbers
+Sales: $6.09M
+Target: $6.20M
+Variance: –$103K (meaning sales were slightly below target)
+Variance Margin: –1.67%
+Monthly Charts
+Each month shows two bars:
+Light blue = Actual sales
+Dark blue = Target
+You can quickly see which months hit or missed the target.
+In several months, sales are close to the target, but overall the year ends just below the goal.
+🏁 Big Picture
+The company performed almost on target, missing the yearly goal by a small amount. Monthly performance varies, but the gap is not large.
+If you want, I can help you turn this into a clean insight for a report or portfolio.
+
 # Week 3: Introduction to Databases and SQL
 Throughout this workbook, I strengthened my understanding of core database concepts and enhanced my practical capability in applying SQL and relational database design principles to real business scenarios.
 I worked through foundational topics including:
