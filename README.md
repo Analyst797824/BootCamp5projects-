@@ -51,6 +51,12 @@ Throughout this workbook, I strengthened my technical skills and analytical disc
 I also learned to emphasise accuracy, governance, and compliance in data‑driven environments. Additionally, I improved my ability to distil complex analytical results into clear, concise insights for senior stakeholders, ensuring that recommendations are evidence‑based and commercially relevant.
 This experience boosted my confidence in delivering high‑quality analysis, complying with regulatory standards, and communicating findings effectively in line with organisational expectations and professional best practices.
 ![week1_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20111225.png)
+Both revenue and profit are going up every year. Revenue starts around $10M in 2017 and climbs to about $30M by 2021.
+Profit starts around $4M and rises to roughly $13M over the same period.
+There’s a small dip in revenue in 2019, but it picks up again strongly afterwards.
+Profit keeps increasing steadily with no dips
+The business is growing consistently, making more money and keeping more of it each year. Even when revenue slowed slightly in 2019, the overall trend stayed positive.
+
 # Week 2: Introduction to Visual Tools — Tableau & Power BI
 Over the course of this workbook, I strengthened my capability to work with modern data tools and analytical techniques while developing a structured, professional approach to interpreting and presenting insights.
 The activities enabled me to apply Tableau, Excel, and Power BI in practical scenarios, reinforcing my ability to transform raw datasets into clear, meaningful outputs that support decision‑making. I also deepened my understanding of analytical methods such as:
