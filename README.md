@@ -50,7 +50,7 @@ Collectively, this programme has significantly advanced my technical capability,
 Throughout this workbook, I strengthened my technical skills and analytical discipline across key data‑handling tools and methodologies. The exercises enabled me to practise structured techniques for data preparation, transformation, and interpretation using Excel, SQL, and visualisation methods.
 I also learned to emphasise accuracy, governance, and compliance in data‑driven environments. Additionally, I improved my ability to distil complex analytical results into clear, concise insights for senior stakeholders, ensuring that recommendations are evidence‑based and commercially relevant.
 This experience boosted my confidence in delivering high‑quality analysis, complying with regulatory standards, and communicating findings effectively in line with organisational expectations and professional best practices.
-![week1_image]((https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202%20WB1.png))
+![week1_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202%20WB1.png)
 
 Both revenue and profit are going up every year. Revenue starts around $10M in 2017 and climbs to about $30M by 2021.
 Profit starts around $4M and rises to roughly $13M over the same period.
