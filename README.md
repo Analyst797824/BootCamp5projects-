@@ -65,7 +65,7 @@ The activities enabled me to apply Tableau, Excel, and Power BI in practical sce
 - Visual storytelling
 These techniques helped me highlight performance patterns and guide strategic planning.
 Beyond technical development, I gained a stronger awareness of how data informs organisational priorities—whether identifying market trends, understanding customer behaviour, or supporting public‑sector decision‑making. This week strengthened my communication skills and improved my readiness to contribute effectively in a data‑driven corporate environment.
-
+![week2_image]()
 # Week 3: Introduction to Databases and SQL
 Throughout this workbook, I strengthened my understanding of core database concepts and enhanced my practical capability in applying SQL and relational database design principles to real business scenarios.
 I worked through foundational topics including:
