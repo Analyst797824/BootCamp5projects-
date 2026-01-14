@@ -144,6 +144,8 @@ The “Paws & Whiskers” case study strengthened my ability to translate busine
 Overall, this week improved my technical confidence and strategic understanding of cloud‑based data solutions, equipping me to design compliant architectures and support organisations in leveraging Azure for efficiency and insight generation.
 
 ![week5_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20195214wb5.png)
+
+
 # Week 6: Introduction to Python for Data Analysis
 Throughout this workbook, I strengthened my technical capabilities in Python programming, data manipulation, and analytical problem‑solving, while developing a structured, professional approach to working with real‑world datasets.
 Using Pandas, I gained hands‑on experience in:
