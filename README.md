@@ -92,7 +92,7 @@ Light blue = Actual sales
 Dark blue = Target
 You can quickly see which months hit or missed the target.
 In several months, sales are close to the target, but overall the year ends just below the goal.
-🏁 Big Picture
+Big Picture
 The company performed almost on target, missing the yearly goal by a small amount. Monthly performance varies, but the gap is not large.
 If you want, I can help you turn this into a clean insight for a report or portfolio.
 
