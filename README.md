@@ -51,6 +51,7 @@ Throughout this workbook, I strengthened my technical skills and analytical disc
 I also learned to emphasise accuracy, governance, and compliance in data‑driven environments. Additionally, I improved my ability to distil complex analytical results into clear, concise insights for senior stakeholders, ensuring that recommendations are evidence‑based and commercially relevant.
 This experience boosted my confidence in delivering high‑quality analysis, complying with regulatory standards, and communicating findings effectively in line with organisational expectations and professional best practices.
 ![week1_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20111225.png)
+
 Both revenue and profit are going up every year. Revenue starts around $10M in 2017 and climbs to about $30M by 2021.
 Profit starts around $4M and rises to roughly $13M over the same period.
 There’s a small dip in revenue in 2019, but it picks up again strongly afterwards.
@@ -65,7 +66,19 @@ The activities enabled me to apply Tableau, Excel, and Power BI in practical sce
 - Visual storytelling
 These techniques helped me highlight performance patterns and guide strategic planning.
 Beyond technical development, I gained a stronger awareness of how data informs organisational priorities—whether identifying market trends, understanding customer behaviour, or supporting public‑sector decision‑making. This week strengthened my communication skills and improved my readiness to contribute effectively in a data‑driven corporate environment.
-![week2_image]()
+![week2_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20194211wb2.png)
+
+Simple Summary of the Dashboard
+Product 3 is the top performer in terms of sales — it brings in the highest average sales amount.
+Products 1 and 2 also perform strongly, sitting just behind Product 3.
+The remaining products generate much lower sales, with a noticeable drop after the top three.
+Quantity Trend (Running Sum Line)
+The running‑sum line shows how the total average quantity sold builds up as you move from Product 1 to Product 10.
+Big jumps happen at Product 1, Product 2, and especially Product 3, showing these products sell in much higher quantities.
+After Product 3, the increases are much smaller, meaning the other products contribute less to total quantity.
+Big Picture
+A small group of products — mainly Product 3, Product 1, and Product 2 — drive most of the sales and quantity. The rest contribute modestly.
+
 # Week 3: Introduction to Databases and SQL
 Throughout this workbook, I strengthened my understanding of core database concepts and enhanced my practical capability in applying SQL and relational database design principles to real business scenarios.
 I worked through foundational topics including:
