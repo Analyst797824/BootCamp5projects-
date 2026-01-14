@@ -143,7 +143,7 @@ I also explored non‑relational data, analytics tooling, and services such as A
 The “Paws & Whiskers” case study strengthened my ability to translate business requirements into a structured cloud architecture, considering security, automation, backup, and scalability.
 Overall, this week improved my technical confidence and strategic understanding of cloud‑based data solutions, equipping me to design compliant architectures and support organisations in leveraging Azure for efficiency and insight generation.
 
-![week5_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20195214wb5.png)
+![week5_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%2013%20WB5.png)
 
 Full Summary of the Dashboard: 
 This Power BI dashboard provides an overview of sales performance across product categories, quantities sold, and geographic regions. It brings together three key visuals to help understand what products are selling, how much is being sold, and where revenue is coming from 
