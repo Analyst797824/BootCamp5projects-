@@ -78,7 +78,7 @@ Big jumps happen at Product 1, Product 2, and especially Product 3, showing thes
 After Product 3, the increases are much smaller, meaning the other products contribute less to total quantity.
 Big Picture
 A small group of products — mainly Product 3, Product 1, and Product 2 — drive most of the sales and quantity. The rest contribute modestly.
-![week2_image]()
+![week2_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%2010%20WB2.png)
 
 This dashboard compares actual sales to the target for each month in FY2018.
 Top Summary Numbers
