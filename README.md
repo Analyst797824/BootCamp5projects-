@@ -66,7 +66,7 @@ The activities enabled me to apply Tableau, Excel, and Power BI in practical sce
 - Visual storytelling
 These techniques helped me highlight performance patterns and guide strategic planning.
 Beyond technical development, I gained a stronger awareness of how data informs organisational priorities—whether identifying market trends, understanding customer behaviour, or supporting public‑sector decision‑making. This week strengthened my communication skills and improved my readiness to contribute effectively in a data‑driven corporate environment.
-![week2_image]()
+![week2_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%208%20WB2.png)
 
 Simple Summary of the Dashboard
 Product 3 is the top performer in terms of sales — it brings in the highest average sales amount.
