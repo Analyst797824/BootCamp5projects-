@@ -183,4 +183,39 @@ The practical tasks involving the GDP dataset enhanced my confidence in extracti
 This week also helped refine my ability to work collaboratively, interpret structured exercises, and apply analytical thinking to unfamiliar datasets. The combination of coding practice, data exploration, and visualisation strengthened my appreciation for accuracy, clarity, and reproducibility in a professional data environment.
 Overall, I am now more confident in using Python to prepare, analyse, and present data, and better equipped to support operational and strategic decision‑making through robust, well‑structured analysis.
 
-![week6_image]()
+![week6_image](https://github.com/Analyst797824/BootCamp5projects-/blob/main/Screenshot%202026-01-13%20195634%20wb%206.png)
+
+Overview of the Dashboard. This Python-created dashboard gives a full picture of how 90 students performed overall, across classes, and by gender. It highlights key statistics, how marks are distributed, and where performance differences appear 
+1. Overall Performance (Top Summary)
+Total students: 90
+Pass rate: 78.9%
+Mean & Median: Both 71.34, showing the marks are fairly balanced around the middle.
+This gives you a quick snapshot of how well the group performed as a whole.
+2. Distribution of Marks (Top Left)
+The histogram shows how marks are spread from low to high.
+A red dashed line marks the pass threshold (60).
+A green line marks the average score (71.34).
+Most students score above the pass mark, and many cluster around the 70s.
+This helps you see whether the class is struggling, average, or strong — in this case, mostly strong.
+ 3. Students per Class (Top Right)
+Shows how many students are in Class A, B, and C.
+Bars are split into Passed (green) and Failed (red).
+You can instantly see which classes have more passes or more failures.
+It’s a quick way to compare class performance.
+ 4. Mean Mark by Class & Gender (Bottom Heatmap)
+Each cell shows the average mark for a specific class and gender.
+Colour intensity shows performance:
+Red = higher marks
+Blue = lower marks
+For example:
+In Class B, males score higher than females.
+In Class C, females score slightly higher.
+This highlights performance differences across groups.
+Big Picture
+The dashboard shows:
+Most students are performing well.
+Pass rates are strong.
+Some classes and genders perform differently.
+Marks cluster around the 70s, with relatively few low scores.
+It’s a clean, well‑designed view of student performance from multiple angles.
+
